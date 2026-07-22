@@ -42,6 +42,10 @@ The lab adapter was configured with a static IP address:
 - Tested DNS name resolution with `nslookup`
 - Tested name resolution behavior with `ping`
 
+## Documentation
+
+- [Lab Overview](docs/lab-overview.md)
+
 ## DNS Test Results
 
 The following command was used to query the DNS server directly:
