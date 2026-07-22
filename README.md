@@ -45,6 +45,7 @@ The lab adapter was configured with a static IP address:
 ## Documentation
 
 - [Lab Overview](docs/lab-overview.md)
+- [DNS Configuration Notes](docs/dns-configuration-notes.md)
 
 ## DNS Test Results
 
